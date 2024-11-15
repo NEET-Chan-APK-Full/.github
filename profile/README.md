@@ -56,3 +56,12 @@ Moreover, the app’s offline download feature is particularly appealing to user
 [Summertime Saga APK](https://github.com/Summertime-Saga-APK)
 
 [BitLife BR](https://github.com/BitLife-BR)
+
+[Stumble Guys Android](https://github.com/Stumble-Guys-ANdroid)
+
+[Poppy Playtime Chapter 3 APK](https://github.com/Poppy-Playtime-Chapter-3-Android)
+
+[Lost Life APK](https://github.com/Lost-Life-APK/)
+
+[GTA San Andreas APK](https://github.com/GTA-San-Andreas-APK-Android
+)
